@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 2. Install required dependencies
    ``` bash
    pip install -r requirements.txt
-3. Ensure that the dataset files (``` bash_train.csv, y_train.csv, x_test.csv, y_test.csv```) are placed in the ``` bash Dataset``` directory.
+3. Ensure that the dataset files (``` x_train.csv, y_train.csv, x_test.csv, y_test.csv```) are placed in the ``` Dataset``` directory.
 
 ## Data Preprocessing
 
