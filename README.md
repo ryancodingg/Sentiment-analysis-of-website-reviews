@@ -1,5 +1,3 @@
-# Sentiment analysis of website reviews
-
 # Sentiment Analysis of Website Reviews
 
 This project focuses on performing sentiment analysis on a dataset of website reviews. The goal is to classify the reviews into positive or negative sentiments using various machine learning models such as Logistic Regression, Random Forest, Support Vector Classifier (SVC), and XGBoost. The models are evaluated and tuned using performance metrics such as accuracy, classification reports, and confusion matrices.
